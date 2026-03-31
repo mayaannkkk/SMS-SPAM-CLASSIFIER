@@ -6,7 +6,7 @@ A simple and efficient **Machine Learning web app** that classifies SMS messages
 
 ## 🚀 Live Demo
 
-👉 https://sms-spam-classifier-gzvzjctwxy2bja9gngc5sw.streamlit.app/#email-sms-spam-classifier
+👉 https://sms-spam-classifier-gzvzjctwxy2bja9gngc5sw.streamlit.app/
 
 ---
 
